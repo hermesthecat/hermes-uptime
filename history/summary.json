@@ -4,18 +4,20 @@
     "url": "https:/abdullahgok.com.tr",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "abdullahgok-com-tr",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 491,
-    "timeDay": 491,
-    "timeWeek": 491,
-    "timeMonth": 491,
-    "timeYear": 491,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.20%",
+    "time": 374,
+    "timeDay": 374,
+    "timeWeek": 374,
+    "timeMonth": 374,
+    "timeYear": 374,
+    "dailyMinutesDown": {
+      "2021-05-18": 0
+    }
   },
   {
     "name": "Hermes OWA",
