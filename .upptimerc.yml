@@ -21,8 +21,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.abdullahazad.com
   #baseUrl: /hermes-uptime
-  logoUrl: https://raw.githubusercontent.com/hermesthecat/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://webadmin.hermes.name.tr/Content/images/panel-logo-2.png
+  favicon: https://webadmin.hermes.name.tr/Content/css/favicon.ico
   name: Hermes Uptime System
+  theme: dark
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
