@@ -6,7 +6,7 @@ sites:
   - name: abdullahgok.com.tr
     url: https:/abdullahgok.com.tr
   - name: Hermes Exchange Server
-    url: https://posta.hermes.name.tr
+    url: https://posta.hermes.name.tr/owa
   - name: GeoIP Database Server
     url: https://geoip.abdullahazad.com
   - name: abdullahazad.com
