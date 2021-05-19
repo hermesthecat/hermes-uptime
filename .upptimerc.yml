@@ -5,10 +5,16 @@ repo: hermes-uptime # The name of this repository
 sites:
   - name: abdullahgok.com.tr
     url: https:/abdullahgok.com.tr
-  - name: Hermes OWA
+  - name: Hermes Exchange Server
     url: https://posta.hermes.name.tr
-  - name: GeoIP
+  - name: GeoIP Database Server
     url: https://geoip.abdullahazad.com
+  - name: abdullahazad.com
+    url: https://abdullahazad.com
+  - name: WhoIs Server
+    url: https://whois.abdullahazad.com
+  - name: WhatsMyIP Server
+    url: https://ip.abdullahazad.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
