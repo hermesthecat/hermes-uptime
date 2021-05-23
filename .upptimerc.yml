@@ -15,8 +15,6 @@ sites:
     url: https://whois.abdullahazad.com
   - name: WhatsMyIP Server
     url: https://ip.abdullahazad.com
-  - name: test
-    url: ${{ secrets.TBT }}
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
