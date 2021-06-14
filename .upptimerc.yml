@@ -12,7 +12,7 @@ sites:
   - name: T.A.R.L.A. Mail
     url: https://mail.tarla.org.tr
   - name: T.A.R.L.A. LDAP
-    url: https://ldap.tarla.org.tr
+    url: http://ldap.tarla.org.tr
   - name: GeoIP Database Server
     url: https://geoip.abdullahazad.com
   - name: abdullahazad.com
