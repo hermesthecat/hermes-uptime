@@ -7,6 +7,12 @@ sites:
     url: https:/abdullahgok.com.tr
   - name: Hermes Exchange Server
     url: https://posta.hermes.name.tr/owa
+  - name: T.A.R.L.A. WEB
+    url: https://tarla.org.tr
+  - name: T.A.R.L.A. Mail
+    url: https://mail.tarla.org.tr
+  - name: T.A.R.L.A. LDAP
+    url: https://ldap.tarla.org.tr
   - name: GeoIP Database Server
     url: https://geoip.abdullahazad.com
   - name: abdullahazad.com
