@@ -13,6 +13,8 @@ sites:
     url: https://mail.tarla.org.tr
   - name: T.A.R.L.A. LDAP
     url: http://ldap.tarla.org.tr
+  - name: T.A.R.L.A. Cloud
+    url: https://cloud.tarla.org.tr
   - name: GeoIP Database Server
     url: https://geoip.abdullahazad.com
   - name: abdullahazad.com
