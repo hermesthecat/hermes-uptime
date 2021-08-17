@@ -25,14 +25,14 @@
     "icon": "https://favicons.githubusercontent.com/posta.hermes.name.tr",
     "slug": "hermes-exchange-server",
     "status": "up",
-    "uptime": "99.33%",
+    "uptime": "99.34%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.43%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.04%",
-    "uptimeYear": "99.33%",
+    "uptimeYear": "99.34%",
     "time": 1032,
     "timeDay": 782,
-    "timeWeek": 908,
+    "timeWeek": 921,
     "timeMonth": 1034,
     "timeYear": 1032,
     "dailyMinutesDown": {
@@ -46,11 +46,11 @@
     "icon": "https://favicons.githubusercontent.com/tarla.org.tr",
     "slug": "t-a-r-l-a-web",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.54%",
+    "uptimeYear": "99.55%",
     "time": 3051,
     "timeDay": 4256,
     "timeWeek": 3858,
@@ -87,11 +87,11 @@
     "icon": "https://favicons.githubusercontent.com/ldap.tarla.org.tr",
     "slug": "t-a-r-l-a-ldap",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.79%",
+    "uptimeYear": "99.80%",
     "time": 382,
     "timeDay": 305,
     "timeWeek": 362,
@@ -108,11 +108,11 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tarla.org.tr",
     "slug": "t-a-r-l-a-cloud",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.79%",
+    "uptimeYear": "99.80%",
     "time": 683,
     "timeDay": 661,
     "timeWeek": 674,
@@ -128,9 +128,9 @@
     "url": "https://geoip.abdullahazad.com",
     "icon": "https://favicons.githubusercontent.com/geoip.abdullahazad.com",
     "slug": "geo-ip-database-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -139,16 +139,18 @@
     "timeWeek": 886,
     "timeMonth": 842,
     "timeYear": 766,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-17": 0
+    }
   },
   {
     "name": "abdullahazad.com",
     "url": "https://abdullahazad.com",
     "icon": "https://favicons.githubusercontent.com/abdullahazad.com",
     "slug": "abdullahazad-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -157,16 +159,18 @@
     "timeWeek": 395,
     "timeMonth": 393,
     "timeYear": 421,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-17": 0
+    }
   },
   {
     "name": "WhoIs Server",
     "url": "https://whois.abdullahazad.com",
     "icon": "https://favicons.githubusercontent.com/whois.abdullahazad.com",
     "slug": "who-is-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -175,16 +179,18 @@
     "timeWeek": 479,
     "timeMonth": 477,
     "timeYear": 503,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-17": 0
+    }
   },
   {
     "name": "WhatsMyIP Server",
     "url": "https://ip.abdullahazad.com",
     "icon": "https://favicons.githubusercontent.com/ip.abdullahazad.com",
     "slug": "whats-my-ip-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -193,6 +199,8 @@
     "timeWeek": 844,
     "timeMonth": 796,
     "timeYear": 942,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-17": 0
+    }
   }
 ]
