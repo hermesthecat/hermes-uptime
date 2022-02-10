@@ -19,7 +19,7 @@ sites:
     url: https://cloud.tarla.org.tr
   #- name: GeoIP Database Server
   #  url: https://geoip.abdullahazad.com
-  - name: abdullahazad.com
+  - name: abdullah azad
     url: https://abdullahazad.com
   - name: WhoIs Server
     url: https://whois.abdullahazad.com
