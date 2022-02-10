@@ -26,7 +26,7 @@
     "slug": "t-a-r-l-a-web",
     "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "30.11%",
+    "uptimeDay": "30.84%",
     "uptimeWeek": "85.32%",
     "uptimeMonth": "96.62%",
     "uptimeYear": "98.91%",
@@ -52,19 +52,19 @@
     "url": "https://mail.tarla.org.tr",
     "icon": "https://favicons.githubusercontent.com/mail.tarla.org.tr",
     "slug": "t-a-r-l-a-mail",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 479,
-    "timeDay": 683,
-    "timeWeek": 637,
-    "timeMonth": 490,
+    "timeDay": 656,
+    "timeWeek": 629,
+    "timeMonth": 492,
     "timeYear": 479,
     "dailyMinutesDown": {
-      "2022-02-10": 0
+      "2022-02-10": 10
     }
   },
   {
