@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/istanbul.abdullahazad.com",
     "slug": "plesk-istanbul",
     "status": "up",
-    "uptime": "98.60%",
+    "uptime": "98.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.62%",
-    "uptimeMonth": "98.60%",
-    "uptimeYear": "98.60%",
+    "uptimeMonth": "98.62%",
+    "uptimeYear": "98.62%",
     "time": 473,
     "timeDay": 421,
     "timeWeek": 460,
@@ -26,7 +26,7 @@
     "slug": "t-a-r-l-a-web",
     "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "17.46%",
+    "uptimeDay": "30.11%",
     "uptimeWeek": "85.32%",
     "uptimeMonth": "96.62%",
     "uptimeYear": "98.91%",
@@ -52,9 +52,9 @@
     "url": "https://mail.tarla.org.tr",
     "icon": "https://favicons.githubusercontent.com/mail.tarla.org.tr",
     "slug": "t-a-r-l-a-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -63,7 +63,9 @@
     "timeWeek": 637,
     "timeMonth": 490,
     "timeYear": 479,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-10": 0
+    }
   },
   {
     "name": "T.A.R.L.A. LDAP",
