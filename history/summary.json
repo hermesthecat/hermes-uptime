@@ -4,9 +4,9 @@
     "url": "https://istanbul.abdullahazad.com",
     "icon": "https://favicons.githubusercontent.com/istanbul.abdullahazad.com",
     "slug": "plesk-istanbul",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
@@ -16,6 +16,7 @@
     "timeMonth": 494,
     "timeYear": 477,
     "dailyMinutesDown": {
+      "2022-04-04": 0,
       "2022-02-06": 240
     }
   },
@@ -101,11 +102,11 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tarla.org.tr",
     "slug": "t-a-r-l-a-cloud",
     "status": "up",
-    "uptime": "96.56%",
+    "uptime": "96.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "96.56%",
+    "uptimeYear": "96.57%",
     "time": 683,
     "timeDay": 847,
     "timeWeek": 762,
