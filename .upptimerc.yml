@@ -19,11 +19,11 @@ sites:
   #  url: https://geoip.abdullahazad.com
   - name: abdullah azad
     url: https://abdullahazad.com
-  - name: Abdullah Gök
+  - name: personal blog
     url: https:/abdullahgok.com.tr
-  - name: WhoIs Server
+  - name: Whois Server
     url: https://whois.abdullahazad.com
-  - name: DNS Propagation Check
+  - name: DNS Propagation Checker
     url: https://dnscheck.name.tr/
 
 status-website:
