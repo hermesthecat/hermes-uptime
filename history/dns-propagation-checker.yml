@@ -1,7 +1,7 @@
 url: https://dnscheck.name.tr/
-status: down
-code: 523
-responseTime: 174
-lastUpdated: 2022-08-11T17:43:36.503Z
+status: up
+code: 200
+responseTime: 631
+lastUpdated: 2022-08-11T17:52:33.523Z
 startTime: Mon Jul 18 2022 16:45:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
