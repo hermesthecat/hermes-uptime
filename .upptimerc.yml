@@ -3,10 +3,6 @@ owner: hermesthecat # Your GitHub organization or username, where this repositor
 repo: hermes-uptime # The name of this repository
 
 sites:
-  #- name: Hermes Mail Server
-  #  url: https://posta.hermes.name.tr
-  #- name: plesk istanbul
-  #  url: https://istanbul.abdullahazad.com
   - name: T.A.R.L.A. WEB
     url: https://tarla.org.tr
    - name: T.A.R.L.A. EN WEB
@@ -17,16 +13,6 @@ sites:
     url: http://ldap.tarla.org.tr
   - name: T.A.R.L.A. Cloud
     url: https://cloud.tarla.org.tr
-  #- name: GeoIP Database Server
-  #  url: https://geoip.abdullahazad.com
-  #- name: abdullah azad
-  #  url: https://abdullahazad.com
-  #- name: personal blog
-  #  url: https:/abdullahgok.com.tr
-  #- name: Whois Server
-  #  url: https://whois.abdullahazad.com
-  #- name: DNS Propagation Checker
-  #  url: https://dnscheck.name.tr/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -35,8 +21,8 @@ status-website:
   #baseUrl: /hermes-uptime
   #apiBaseUrl: https://dash.abdullahazad.com/status-board
   publish: true
-  logoUrl: https://webadmin.hermes.name.tr/Content/images/panel-logo-2.png
-  favicon: https://webadmin.hermes.name.tr/Content/css/favicon.ico
+  #logoUrl: https://webadmin.hermes.name.tr/Content/images/panel-logo-2.png
+  #favicon: https://webadmin.hermes.name.tr/Content/css/favicon.ico
   name: Hermes Uptime System
   theme: dark
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
