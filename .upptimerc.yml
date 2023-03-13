@@ -9,6 +9,8 @@ sites:
   #  url: https://istanbul.abdullahazad.com
   - name: T.A.R.L.A. WEB
     url: https://tarla.org.tr
+   - name: T.A.R.L.A. EN WEB
+    url: https://en.tarla.org.tr
   - name: T.A.R.L.A. Mail
     url: https://mail.tarla.org.tr
   - name: T.A.R.L.A. LDAP
@@ -17,14 +19,14 @@ sites:
     url: https://cloud.tarla.org.tr
   #- name: GeoIP Database Server
   #  url: https://geoip.abdullahazad.com
-  - name: abdullah azad
-    url: https://abdullahazad.com
-  - name: personal blog
-    url: https:/abdullahgok.com.tr
-  - name: Whois Server
-    url: https://whois.abdullahazad.com
-  - name: DNS Propagation Checker
-    url: https://dnscheck.name.tr/
+  #- name: abdullah azad
+  #  url: https://abdullahazad.com
+  #- name: personal blog
+  #  url: https:/abdullahgok.com.tr
+  #- name: Whois Server
+  #  url: https://whois.abdullahazad.com
+  #- name: DNS Propagation Checker
+  #  url: https://dnscheck.name.tr/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
