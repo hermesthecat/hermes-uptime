@@ -5,7 +5,7 @@ repo: hermes-uptime # The name of this repository
 sites:
   - name: T.A.R.L.A. WEB
     url: https://tarla.org.tr
-   - name: T.A.R.L.A. EN WEB
+  - name: T.A.R.L.A. EN WEB
     url: https://en.tarla.org.tr
   - name: T.A.R.L.A. Mail
     url: https://mail.tarla.org.tr
