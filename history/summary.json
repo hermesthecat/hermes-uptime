@@ -192,19 +192,19 @@
     "url": "$TARLA_EBYS",
     "icon": "https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png",
     "slug": "t-a-r-l-a-ebys",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 1112,
-    "timeDay": 1112,
-    "timeWeek": 1112,
-    "timeMonth": 1112,
-    "timeYear": 1112,
+    "status": "up",
+    "uptime": "95.76%",
+    "uptimeDay": "95.76%",
+    "uptimeWeek": "95.76%",
+    "uptimeMonth": "95.76%",
+    "uptimeYear": "95.76%",
+    "time": 1234,
+    "timeDay": 1234,
+    "timeWeek": 1234,
+    "timeMonth": 1234,
+    "timeYear": 1234,
     "dailyMinutesDown": {
-      "2023-03-16": 1
+      "2023-03-16": 18
     }
   },
   {
