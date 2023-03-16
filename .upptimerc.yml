@@ -4,15 +4,35 @@ repo: hermes-uptime # The name of this repository
 
 sites:
   - name: T.A.R.L.A. WEB
-    url: https://tarla.org.tr
+    url: $TARLA_WEB
+    icon: view-source:https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png
   - name: T.A.R.L.A. EN WEB
-    url: https://en.tarla.org.tr
+    url: $TARLA_EN_WEB
+    icon: view-source:https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png
   - name: T.A.R.L.A. Mail
-    url: https://mail.tarla.org.tr
+    url: $TARLA_MAIL
+    icon: view-source:https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png
   - name: T.A.R.L.A. LDAP
-    url: http://ldap.tarla.org.tr
+    url: $TARLA_LDAP
+    icon: view-source:https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png
   - name: T.A.R.L.A. Cloud
-    url: https://cloud.tarla.org.tr
+    url: $TARLA_CLOUD
+    icon: view-source:https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png
+  - name: T.A.R.L.A. Rapor
+    url: $TARLA_RAPOR
+    icon: view-source:https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png
+  - name: T.A.R.L.A. Sınav
+    url: $TARLA_RAPOR
+    icon: view-source:https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png
+  - name: T.A.R.L.A. Yardım Masası
+    url: $TARLA_YARDIM
+    icon: view-source:https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png
+  - name: T.A.R.L.A. EBYS
+    url: $TARLA_EBYS
+    icon: view-source:https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png
+  - name: T.A.R.L.A. ERP
+    url: $TARLA_ERP
+    icon: view-source:https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
