@@ -22,7 +22,7 @@ sites:
     url: $TARLA_RAPOR
     icon: view-source:https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png
   - name: T.A.R.L.A. Sınav
-    url: $TARLA_RAPOR
+    url: $TARLA_SINAV
     icon: view-source:https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png
   - name: T.A.R.L.A. Yardım Masası
     url: $TARLA_YARDIM
