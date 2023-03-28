@@ -212,19 +212,19 @@
     "url": "$TARLA_ERP",
     "icon": "https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png",
     "slug": "t-a-r-l-a-erp",
-    "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "89.89%",
-    "uptimeWeek": "98.56%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "99.16%",
+    "status": "down",
+    "uptime": "99.21%",
+    "uptimeDay": "90.52%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.21%",
     "time": 7495,
     "timeDay": 8790,
     "timeWeek": 8094,
     "timeMonth": 7495,
     "timeYear": 7495,
     "dailyMinutesDown": {
-      "2023-03-28": 97,
+      "2023-03-28": 88,
       "2023-03-27": 49
     }
   }
