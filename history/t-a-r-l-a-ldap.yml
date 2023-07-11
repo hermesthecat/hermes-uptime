@@ -1,7 +1,7 @@
 url: $TARLA_LDAP
 status: up
 code: 200
-responseTime: 362
-lastUpdated: 2023-07-10T23:13:21.468Z
+responseTime: 300
+lastUpdated: 2023-07-11T23:13:00.048Z
 startTime: Mon Jun 14 2021 08:35:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
