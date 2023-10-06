@@ -168,9 +168,9 @@
     "url": "$TARLA_EBYS",
     "icon": "https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png",
     "slug": "t-a-r-l-a-ebys",
-    "status": "up",
+    "status": "down",
     "uptime": "99.08%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.08%",
@@ -180,6 +180,7 @@
     "timeMonth": 1127,
     "timeYear": 1233,
     "dailyMinutesDown": {
+      "2023-10-06": 0,
       "2023-04-03": 1244,
       "2023-04-02": 1440,
       "2023-03-16": 18
