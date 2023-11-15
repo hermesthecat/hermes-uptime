@@ -4,19 +4,19 @@
     "url": "$TARLA_WEB",
     "icon": "https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png",
     "slug": "t-a-r-l-a-web",
-    "status": "down",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1001,
-    "timeDay": 1952,
-    "timeWeek": 2254,
-    "timeMonth": 2218,
-    "timeYear": 1075,
+    "time": 1016,
+    "timeDay": 4920,
+    "timeWeek": 2958,
+    "timeMonth": 2395,
+    "timeYear": 1094,
     "dailyMinutesDown": {
-      "2023-11-15": 1
+      "2023-11-15": 8
     }
   },
   {
@@ -48,7 +48,7 @@
     "uptime": "98.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "49.34%",
+    "uptimeMonth": "49.32%",
     "uptimeYear": "95.77%",
     "time": 710,
     "timeDay": 0,
@@ -56,7 +56,7 @@
     "timeMonth": 740,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2023-11-15": 645,
+      "2023-11-15": 655,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
       "2023-11-12": 1440,
@@ -167,9 +167,9 @@
     "url": "$TARLA_YARDIM",
     "icon": "https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png",
     "slug": "t-a-r-l-a-yardim-masasi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -178,7 +178,9 @@
     "timeWeek": 611,
     "timeMonth": 549,
     "timeYear": 514,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-15": 0
+    }
   },
   {
     "name": "T.A.R.L.A. EBYS",
