@@ -6,18 +6,16 @@
     "slug": "t-a-r-l-a-web",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1016,
     "timeDay": 4920,
     "timeWeek": 2958,
     "timeMonth": 2395,
     "timeYear": 1094,
-    "dailyMinutesDown": {
-      "2023-11-15": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "T.A.R.L.A. EN WEB",
@@ -48,7 +46,7 @@
     "uptime": "98.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "49.32%",
+    "uptimeMonth": "49.30%",
     "uptimeYear": "95.77%",
     "time": 710,
     "timeDay": 0,
@@ -56,7 +54,7 @@
     "timeMonth": 740,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2023-11-15": 655,
+      "2023-11-15": 663,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
       "2023-11-12": 1440,
@@ -167,19 +165,19 @@
     "url": "$TARLA_YARDIM",
     "icon": "https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png",
     "slug": "t-a-r-l-a-yardim-masasi",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 514,
-    "timeDay": 881,
-    "timeWeek": 611,
-    "timeMonth": 549,
-    "timeYear": 514,
+    "time": 515,
+    "timeDay": 864,
+    "timeWeek": 641,
+    "timeMonth": 558,
+    "timeYear": 515,
     "dailyMinutesDown": {
-      "2023-11-15": 0
+      "2023-11-15": 9
     }
   },
   {
