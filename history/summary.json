@@ -5,18 +5,18 @@
     "icon": "https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png",
     "slug": "t-a-r-l-a-web",
     "status": "down",
-    "uptime": "99.05%",
-    "uptimeDay": "67.40%",
-    "uptimeWeek": "95.34%",
-    "uptimeMonth": "77.64%",
-    "uptimeYear": "98.14%",
+    "uptime": "99.04%",
+    "uptimeDay": "66.72%",
+    "uptimeWeek": "95.25%",
+    "uptimeMonth": "77.61%",
+    "uptimeYear": "98.13%",
     "time": 1266,
     "timeDay": 2048,
     "timeWeek": 2210,
     "timeMonth": 1854,
     "timeYear": 1448,
     "dailyMinutesDown": {
-      "2024-03-16": 469,
+      "2024-03-16": 479,
       "2024-03-05": 465,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
@@ -34,9 +34,9 @@
     "slug": "t-a-r-l-a-en-web",
     "status": "down",
     "uptime": "98.27%",
-    "uptimeDay": "67.50%",
-    "uptimeWeek": "95.36%",
-    "uptimeMonth": "79.07%",
+    "uptimeDay": "66.83%",
+    "uptimeWeek": "95.26%",
+    "uptimeMonth": "79.05%",
     "uptimeYear": "98.25%",
     "time": 1365,
     "timeDay": 1917,
@@ -44,7 +44,7 @@
     "timeMonth": 1751,
     "timeYear": 1373,
     "dailyMinutesDown": {
-      "2024-03-16": 468,
+      "2024-03-16": 478,
       "2024-03-04": 1278,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
@@ -65,14 +65,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "62.24%",
+    "uptimeYear": "62.23%",
     "time": 717,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 742,
     "dailyMinutesDown": {
-      "2024-03-16": 1266,
+      "2024-03-16": 1275,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -254,7 +254,7 @@
     "timeMonth": 0,
     "timeYear": 1043,
     "dailyMinutesDown": {
-      "2024-03-16": 1266,
+      "2024-03-16": 1275,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -377,9 +377,9 @@
     "slug": "t-a-r-l-a-rapor",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "92.78%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "92.12%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.98%",
     "time": 701,
     "timeDay": 682,
@@ -387,7 +387,7 @@
     "timeMonth": 781,
     "timeYear": 701,
     "dailyMinutesDown": {
-      "2024-03-16": 104
+      "2024-03-16": 114
     }
   },
   {
@@ -395,9 +395,9 @@
     "url": "$TARLA_SINAV",
     "icon": "https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png",
     "slug": "t-a-r-l-a-sinav",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -406,16 +406,18 @@
     "timeWeek": 712,
     "timeMonth": 758,
     "timeYear": 549,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "T.A.R.L.A. Yardım Masası",
     "url": "$TARLA_YARDIM",
     "icon": "https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png",
     "slug": "t-a-r-l-a-yardim-masasi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -424,7 +426,9 @@
     "timeWeek": 720,
     "timeMonth": 736,
     "timeYear": 592,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "T.A.R.L.A. EBYS",
