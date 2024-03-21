@@ -1,7 +1,7 @@
 url: $TARLA_RAPOR
-status: up
-code: 200
-responseTime: 866
-lastUpdated: 2024-03-20T23:13:50.305Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-03-21T02:32:47.156Z
 startTime: 2023-03-16T08:32:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
