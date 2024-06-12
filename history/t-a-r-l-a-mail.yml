@@ -1,7 +1,7 @@
 url: $TARLA_MAIL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-06-12T22:46:08.771Z
+status: up
+code: 200
+responseTime: 849
+lastUpdated: 2024-06-12T22:54:10.149Z
 startTime: 2021-06-14T08:35:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
