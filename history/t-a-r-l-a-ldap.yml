@@ -1,7 +1,7 @@
 url: $TARLA_LDAP
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-06-13T08:50:44.650Z
+status: up
+code: 200
+responseTime: 2617
+lastUpdated: 2024-06-13T09:55:13.480Z
 startTime: 2021-06-14T08:35:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
