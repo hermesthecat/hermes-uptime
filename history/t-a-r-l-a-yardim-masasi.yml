@@ -1,7 +1,7 @@
 url: $TARLA_YARDIM
-status: down
-code: 521
-responseTime: 826
-lastUpdated: 2024-07-10T10:22:49.677Z
+status: up
+code: 200
+responseTime: 645
+lastUpdated: 2024-07-10T10:36:09.005Z
 startTime: 2023-03-16T08:32:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
