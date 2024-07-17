@@ -1,7 +1,7 @@
 url: $TARLA_ERP
-status: up
-code: 200
-responseTime: 894
-lastUpdated: 2024-07-16T23:15:34.919Z
+status: down
+code: 503
+responseTime: 495
+lastUpdated: 2024-07-17T10:59:21.592Z
 startTime: 2023-03-16T08:32:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
