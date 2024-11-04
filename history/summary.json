@@ -103,7 +103,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "61.98%",
+    "uptimeYear": "61.99%",
     "time": 812,
     "timeDay": 819,
     "timeWeek": 794,
@@ -259,8 +259,7 @@
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
-      "2023-11-06": 1440,
-      "2023-11-05": 1440
+      "2023-11-06": 1440
     }
   },
   {
@@ -803,9 +802,9 @@
     "slug": "t-a-r-l-a-erp",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 4105,
     "timeDay": 2248,
@@ -813,7 +812,6 @@
     "timeMonth": 2090,
     "timeYear": 3904,
     "dailyMinutesDown": {
-      "2024-11-03": 8,
       "2024-09-20": 70,
       "2024-08-28": 24,
       "2024-08-16": 42,
