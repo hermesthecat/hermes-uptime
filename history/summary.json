@@ -102,11 +102,11 @@
     "icon": "https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png",
     "slug": "t-a-r-l-a-mail",
     "status": "up",
-    "uptime": "89.12%",
+    "uptime": "89.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
-    "uptimeYear": "85.51%",
+    "uptimeYear": "85.52%",
     "time": 816,
     "timeDay": 645,
     "timeWeek": 722,
@@ -177,8 +177,7 @@
       "2024-02-03": 1440,
       "2024-02-02": 1440,
       "2024-02-01": 1440,
-      "2024-01-31": 1440,
-      "2024-01-30": 1440
+      "2024-01-31": 1440
     }
   },
   {
@@ -263,7 +262,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "47.54%",
+    "uptimeYear": "47.55%",
     "time": 777,
     "timeDay": 0,
     "timeWeek": 0,
@@ -459,8 +458,7 @@
       "2024-02-03": 1440,
       "2024-02-02": 1440,
       "2024-02-01": 1440,
-      "2024-01-31": 1440,
-      "2024-01-30": 1440
+      "2024-01-31": 1440
     }
   },
   {
@@ -633,9 +631,9 @@
     "slug": "t-a-r-l-a-ebys",
     "status": "up",
     "uptime": "98.63%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "98.06%",
     "time": 1640,
     "timeDay": 1286,
@@ -643,7 +641,6 @@
     "timeMonth": 2418,
     "timeYear": 1597,
     "dailyMinutesDown": {
-      "2025-01-28": 7,
       "2025-01-15": 18,
       "2025-01-09": 117,
       "2024-12-05": 19,
