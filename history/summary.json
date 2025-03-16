@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.64%",
-    "time": 2015,
-    "timeDay": 3084,
-    "timeWeek": 2783,
-    "timeMonth": 2813,
-    "timeYear": 2042,
+    "time": 2017,
+    "timeDay": 2563,
+    "timeWeek": 2794,
+    "timeMonth": 2818,
+    "timeYear": 2043,
     "dailyMinutesDown": {
       "2025-02-11": 20,
       "2025-01-06": 193,
@@ -37,8 +37,7 @@
       "2024-07-08": 351,
       "2024-03-22": 404,
       "2024-03-21": 307,
-      "2024-03-17": 1112,
-      "2024-03-16": 505
+      "2024-03-17": 1112
     }
   },
   {
@@ -52,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.68%",
-    "time": 1950,
-    "timeDay": 3102,
-    "timeWeek": 3292,
-    "timeMonth": 3147,
-    "timeYear": 2027,
+    "time": 1952,
+    "timeDay": 2821,
+    "timeWeek": 3267,
+    "timeMonth": 3151,
+    "timeYear": 2029,
     "dailyMinutesDown": {
       "2025-02-11": 20,
       "2025-01-06": 193,
@@ -79,8 +78,7 @@
       "2024-07-07": 81,
       "2024-03-22": 404,
       "2024-03-21": 305,
-      "2024-03-17": 1110,
-      "2024-03-16": 503
+      "2024-03-17": 1110
     }
   },
   {
@@ -89,16 +87,16 @@
     "icon": "https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png",
     "slug": "t-a-r-l-a-mail",
     "status": "up",
-    "uptime": "89.48%",
+    "uptime": "89.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.13%",
+    "uptimeYear": "98.40%",
     "time": 823,
-    "timeDay": 966,
-    "timeWeek": 842,
-    "timeMonth": 789,
-    "timeYear": 827,
+    "timeDay": 658,
+    "timeWeek": 843,
+    "timeMonth": 793,
+    "timeYear": 826,
     "dailyMinutesDown": {
       "2025-02-11": 19,
       "2025-01-06": 167,
@@ -119,8 +117,7 @@
       "2024-05-13": 17,
       "2024-05-02": 67,
       "2024-03-18": 1117,
-      "2024-03-17": 1440,
-      "2024-03-16": 1440
+      "2024-03-17": 1440
     }
   },
   {
@@ -135,9 +132,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.42%",
     "time": 471,
-    "timeDay": 396,
-    "timeWeek": 422,
-    "timeMonth": 401,
+    "timeDay": 405,
+    "timeWeek": 419,
+    "timeMonth": 406,
     "timeYear": 470,
     "dailyMinutesDown": {
       "2025-01-06": 159,
@@ -201,12 +198,12 @@
     "icon": "https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png",
     "slug": "t-a-r-l-a-cloud",
     "status": "down",
-    "uptime": "80.05%",
+    "uptime": "80.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "60.16%",
-    "time": 763,
+    "uptimeYear": "60.43%",
+    "time": 761,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -355,8 +352,7 @@
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
-      "2024-03-17": 1440,
-      "2024-03-16": 1440
+      "2024-03-17": 1440
     }
   },
   {
@@ -365,16 +361,16 @@
     "icon": "https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png",
     "slug": "t-a-r-l-a-rapor",
     "status": "down",
-    "uptime": "95.80%",
+    "uptime": "95.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.60%",
-    "time": 859,
+    "time": 861,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 894,
+    "timeYear": 896,
     "dailyMinutesDown": {
       "2024-08-07": 655,
       "2024-08-06": 1440,
@@ -409,8 +405,7 @@
       "2024-07-08": 877,
       "2024-03-22": 404,
       "2024-03-21": 205,
-      "2024-03-17": 85,
-      "2024-03-16": 140
+      "2024-03-17": 85
     }
   },
   {
@@ -419,16 +414,16 @@
     "icon": "https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png",
     "slug": "t-a-r-l-a-sinav",
     "status": "down",
-    "uptime": "95.82%",
+    "uptime": "95.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.65%",
-    "time": 748,
+    "time": 749,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 742,
+    "timeYear": 744,
     "dailyMinutesDown": {
       "2024-08-07": 655,
       "2024-08-06": 1440,
@@ -462,8 +457,7 @@
       "2024-07-09": 1440,
       "2024-07-08": 876,
       "2024-03-22": 404,
-      "2024-03-21": 166,
-      "2024-03-16": 26
+      "2024-03-21": 166
     }
   },
   {
@@ -477,11 +471,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.72%",
-    "time": 1003,
-    "timeDay": 3391,
-    "timeWeek": 1990,
-    "timeMonth": 2009,
-    "timeYear": 1176,
+    "time": 1004,
+    "timeDay": 1141,
+    "timeWeek": 2005,
+    "timeMonth": 2016,
+    "timeYear": 1177,
     "dailyMinutesDown": {
       "2025-02-11": 17,
       "2025-01-06": 191,
@@ -519,8 +513,7 @@
       "2024-07-09": 661,
       "2024-07-08": 298,
       "2024-03-22": 404,
-      "2024-03-21": 166,
-      "2024-03-16": 26
+      "2024-03-21": 166
     }
   },
   {
@@ -529,15 +522,15 @@
     "icon": "https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png",
     "slug": "t-a-r-l-a-ebys",
     "status": "up",
-    "uptime": "98.69%",
+    "uptime": "98.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "98.13%",
-    "time": 1817,
-    "timeDay": 1841,
-    "timeWeek": 1646,
-    "timeMonth": 2451,
+    "time": 1816,
+    "timeDay": 1055,
+    "timeWeek": 1615,
+    "timeMonth": 2471,
     "timeYear": 1854,
     "dailyMinutesDown": {
       "2025-03-06": 24,
@@ -563,8 +556,7 @@
       "2024-07-18": 679,
       "2024-05-23": 20,
       "2024-04-03": 300,
-      "2024-03-23": 19,
-      "2024-03-16": 18
+      "2024-03-23": 19
     }
   },
   {
@@ -573,15 +565,15 @@
     "icon": "https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png",
     "slug": "t-a-r-l-a-erp",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.89%",
-    "time": 3268,
-    "timeDay": 951,
-    "timeWeek": 2459,
-    "timeMonth": 2192,
+    "time": 3251,
+    "timeDay": 615,
+    "timeWeek": 2446,
+    "timeMonth": 2190,
     "timeYear": 2975,
     "dailyMinutesDown": {
       "2025-02-26": 32,
