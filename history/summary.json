@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.98%",
+    "uptimeYear": "99.01%",
     "time": 2032,
-    "timeDay": 2554,
-    "timeWeek": 2796,
-    "timeMonth": 2829,
-    "timeYear": 2051,
+    "timeDay": 2372,
+    "timeWeek": 2694,
+    "timeMonth": 2818,
+    "timeYear": 2052,
     "dailyMinutesDown": {
       "2025-02-11": 20,
       "2025-01-06": 193,
@@ -34,8 +34,7 @@
       "2024-07-24": 25,
       "2024-07-10": 707,
       "2024-07-09": 1022,
-      "2024-07-08": 351,
-      "2024-03-22": 404
+      "2024-07-08": 351
     }
   },
   {
@@ -48,12 +47,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.01%",
-    "time": 1967,
-    "timeDay": 2658,
-    "timeWeek": 2954,
-    "timeMonth": 3138,
-    "timeYear": 2039,
+    "uptimeYear": "99.05%",
+    "time": 1970,
+    "timeDay": 2777,
+    "timeWeek": 2908,
+    "timeMonth": 3132,
+    "timeYear": 2041,
     "dailyMinutesDown": {
       "2025-02-11": 20,
       "2025-01-06": 193,
@@ -73,8 +72,7 @@
       "2024-07-10": 680,
       "2024-07-09": 809,
       "2024-07-08": 351,
-      "2024-07-07": 81,
-      "2024-03-22": 404
+      "2024-07-07": 81
     }
   },
   {
@@ -89,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.15%",
     "time": 822,
-    "timeDay": 704,
-    "timeWeek": 752,
-    "timeMonth": 783,
+    "timeDay": 693,
+    "timeWeek": 713,
+    "timeMonth": 779,
     "timeYear": 826,
     "dailyMinutesDown": {
       "2025-02-11": 19,
@@ -120,15 +118,15 @@
     "icon": "https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png",
     "slug": "t-a-r-l-a-ldap",
     "status": "up",
-    "uptime": "96.41%",
+    "uptime": "96.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.42%",
     "time": 470,
-    "timeDay": 376,
-    "timeWeek": 400,
-    "timeMonth": 416,
+    "timeDay": 294,
+    "timeWeek": 385,
+    "timeMonth": 410,
     "timeYear": 469,
     "dailyMinutesDown": {
       "2025-01-06": 159,
@@ -192,12 +190,12 @@
     "icon": "https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png",
     "slug": "t-a-r-l-a-cloud",
     "status": "down",
-    "uptime": "80.14%",
+    "uptime": "80.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "61.91%",
-    "time": 741,
+    "uptimeYear": "62.07%",
+    "time": 737,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -340,8 +338,7 @@
       "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
-      "2024-03-23": 1440,
-      "2024-03-22": 1440
+      "2024-03-23": 1440
     }
   },
   {
@@ -354,8 +351,8 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.65%",
-    "time": 870,
+    "uptimeYear": "91.69%",
+    "time": 869,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -391,8 +388,7 @@
       "2024-07-11": 1440,
       "2024-07-10": 1440,
       "2024-07-09": 1440,
-      "2024-07-08": 877,
-      "2024-03-22": 404
+      "2024-07-08": 877
     }
   },
   {
@@ -405,8 +401,8 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.65%",
-    "time": 754,
+    "uptimeYear": "91.69%",
+    "time": 756,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -442,8 +438,7 @@
       "2024-07-11": 1440,
       "2024-07-10": 1440,
       "2024-07-09": 1440,
-      "2024-07-08": 876,
-      "2024-03-22": 404
+      "2024-07-08": 876
     }
   },
   {
@@ -456,11 +451,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.72%",
-    "time": 1018,
-    "timeDay": 1489,
-    "timeWeek": 2130,
-    "timeMonth": 1903,
+    "uptimeYear": "94.76%",
+    "time": 1019,
+    "timeDay": 1096,
+    "timeWeek": 1802,
+    "timeMonth": 1905,
     "timeYear": 1197,
     "dailyMinutesDown": {
       "2025-02-11": 17,
@@ -497,8 +492,7 @@
       "2024-07-24": 24,
       "2024-07-10": 638,
       "2024-07-09": 661,
-      "2024-07-08": 298,
-      "2024-03-22": 404
+      "2024-07-08": 298
     }
   },
   {
@@ -508,14 +502,14 @@
     "slug": "t-a-r-l-a-ebys",
     "status": "up",
     "uptime": "98.70%",
-    "uptimeDay": "96.12%",
+    "uptimeDay": "98.64%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "98.12%",
-    "time": 1831,
-    "timeDay": 2090,
-    "timeWeek": 1873,
-    "timeMonth": 2547,
+    "time": 1832,
+    "timeDay": 2883,
+    "timeWeek": 1807,
+    "timeMonth": 2545,
     "timeYear": 1866,
     "dailyMinutesDown": {
       "2025-03-21": 20,
@@ -557,11 +551,11 @@
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.88%",
-    "time": 3281,
-    "timeDay": 8500,
-    "timeWeek": 3857,
-    "timeMonth": 2392,
-    "timeYear": 3004,
+    "time": 3262,
+    "timeDay": 8497,
+    "timeWeek": 3822,
+    "timeMonth": 2387,
+    "timeYear": 3005,
     "dailyMinutesDown": {
       "2025-03-21": 50,
       "2025-02-26": 32,
