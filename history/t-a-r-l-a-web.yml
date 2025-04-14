@@ -1,7 +1,7 @@
 url: $TARLA_WEB
-status: down
-code: 500
-responseTime: 895
-lastUpdated: 2025-04-14T11:07:28.870Z
+status: up
+code: 200
+responseTime: 2475
+lastUpdated: 2025-04-14T11:18:04.077Z
 startTime: 2021-06-14T08:35:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
