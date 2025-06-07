@@ -1,7 +1,7 @@
 url: $TARLA_EBYS
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-07T23:23:13.600Z
+status: up
+code: 200
+responseTime: 29444
+lastUpdated: 2025-06-07T23:33:15.944Z
 startTime: 2023-03-16T08:32:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
