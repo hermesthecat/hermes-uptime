@@ -128,7 +128,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.09%",
+    "uptimeYear": "98.10%",
     "time": 460,
     "timeDay": 341,
     "timeWeek": 516,
@@ -147,8 +147,7 @@
       "2024-06-13": 214,
       "2024-06-12": 16,
       "2024-06-10": 459,
-      "2024-06-09": 1440,
-      "2024-06-08": 1440
+      "2024-06-09": 1440
     }
   },
   {
@@ -161,7 +160,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.43%",
+    "uptimeYear": "83.44%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -227,8 +226,7 @@
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
-      "2024-06-09": 1440,
-      "2024-06-08": 1440
+      "2024-06-09": 1440
     }
   },
   {
@@ -337,18 +335,19 @@
     "icon": "https://tarla.org.tr/wp-content/uploads/2014/06/cropped-logo2-2.png",
     "slug": "t-a-r-l-a-yardim-masasi",
     "status": "down",
-    "uptime": "92.43%",
+    "uptime": "92.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.21%",
+    "uptimeYear": "83.20%",
     "time": 1116,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1327,
     "dailyMinutesDown": {
-      "2025-06-07": 1414,
+      "2025-06-08": 25,
+      "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
@@ -435,17 +434,16 @@
     "slug": "t-a-r-l-a-ebys",
     "status": "up",
     "uptime": "98.74%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "97.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "98.00%",
     "time": 2254,
     "timeDay": 15329,
     "timeWeek": 6435,
     "timeMonth": 4816,
     "timeYear": 2548,
     "dailyMinutesDown": {
-      "2025-06-07": 10,
       "2025-04-24": 543,
       "2025-04-23": 327,
       "2025-04-15": 34,
