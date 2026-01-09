@@ -10,7 +10,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: uptime.abdullahazad.com
+  #cname: uptime.abdullahazad.com
   #baseUrl: /hermes-uptime
   #apiBaseUrl: https://dash.abdullahazad.com/status-board
   publish: true
