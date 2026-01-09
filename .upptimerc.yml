@@ -11,7 +11,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: uptime.abdullahazad.com
-  #baseUrl: /hermes-uptime
+  baseUrl: /hermes-uptime
   #apiBaseUrl: https://dash.abdullahazad.com/status-board
   publish: true
   #logoUrl: https://webadmin.hermes.name.tr/Content/images/panel-logo-2.png
