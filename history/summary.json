@@ -4,17 +4,17 @@
     "url": "https://google.com.tr",
     "icon": "https://google.com.tr/cropped-logo2-2.png",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 342,
+    "timeDay": 342,
+    "timeWeek": 342,
+    "timeMonth": 342,
+    "timeYear": 342,
     "dailyMinutesDown": {}
   }
 ]
