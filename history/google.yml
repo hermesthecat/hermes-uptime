@@ -1,7 +1,7 @@
 url: https://google.com.tr
-status: down
-code: 429
-responseTime: 457
-lastUpdated: 2026-01-18T20:53:52.017Z
+status: up
+code: 200
+responseTime: 4305
+lastUpdated: 2026-01-18T21:01:04.994Z
 startTime: 2026-01-09T15:43:43.268Z
 generator: Upptime <https://github.com/upptime/upptime>
